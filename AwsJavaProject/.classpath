@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/aws-java-sdk-1.4.0.1.jar" sourcepath="D:/Java Software/AWS Jars/aws-java-sdk-1.4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/aws-java-sdk-core-1.11.16.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/aws-java-sdk-ec2-1.11.16.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/jackson-core-2.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/jackson-databind-2.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/jackson-dataformat-cbor-2.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java Software/AWS Jars/Aws Jar New/joda-time-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
